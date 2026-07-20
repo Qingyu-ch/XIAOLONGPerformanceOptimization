@@ -1,1 +1,3 @@
-完善主要功能
+修改了一下输出与提醒。
+
+下载：https://github.com/Qingyu-ch/XIAOLONGPerformanceOptimization/releases/download/v1.1Release/v1.1.zip
