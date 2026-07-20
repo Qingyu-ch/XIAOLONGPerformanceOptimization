@@ -1,0 +1,2 @@
+# XIAOLONGPerformanceOptimization
+针对骁龙平台的手机调度优化，通用模块AX-KSU-Magisk更新仓库
